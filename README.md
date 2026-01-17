@@ -1,1 +1,11 @@
 # TradingSignals
+declining_stocks_count
+breadth_ratio
+stocks_above_vwap_count
+high_volume_stocks_count
+volume_spike_stocks_count
+top5_gainers
+top5_losers
+current_session_phase
+nifty_daily_regime
+stocks_in_bull_regime_count
